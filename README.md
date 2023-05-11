@@ -1,2 +1,1 @@
-"# PES2UG20CS448_Jenkins" 
-"# EventCalendarManagement" 
+A Simple Event calendar application that displays all the events regarding academics. In this application Admin can schedule/manage events, post students results and manage semester fees. User would be able to register and view the results and fees through his registered mail.
